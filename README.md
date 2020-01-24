@@ -1,6 +1,6 @@
 # keepa-tool
 
-## installation
+## Installation
 
 1. Download this repository by clicking on the green button `Clone or download` and click `Download ZIP`.
 2. On Windows or Mac, go here: https://nodejs.org/en/download/ and install Node.js for your operating system.
@@ -14,7 +14,7 @@
 8. Inside the project directory, type `npm install`.
 9. After installation the project is ready to go: type `node app.js`.
 
-## Workflow
+## Using the App
 
 1. Follow the questions that it asks you:
    - What is your secret key? = Keepa secret key
