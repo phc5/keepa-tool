@@ -212,7 +212,8 @@ function writeData(ASINs) {
 
         writeDataToCell(ws, style, csv10, 14, 15);
 
-        wb.write('Excel2.xlsx');
+        const date = new Date();
+        wb.write(`${date.toString().replace(/\s/g, '')}.xlsx`);
       })
       .catch(error => {
         console.log('--------------');
