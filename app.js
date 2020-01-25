@@ -221,7 +221,3 @@ function writeData(ASINs) {
       });
   });
 }
-
-// B07Q4TJV3C
-// ehna7e08pgj3ibqpnhkqbqj28p44tbtk17v1rcmk5n1ilca5ebdc131jj5vi2f51
-// B07WCVDKV8,B07ZX487Z4,B07Q4TJV3C,B078M4G2SF,B081DY27LT
